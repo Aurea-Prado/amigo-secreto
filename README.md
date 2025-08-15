@@ -16,6 +16,10 @@ Permite adicionar nomes à lista de participantes e realizar um sorteio aleatór
 
 ---
 
+## ## Capturas de Tela
+
+![ilustração do desafio](./imagem/teste.png)
+
 ## Como usar
 
 1. Clone o repositório:
